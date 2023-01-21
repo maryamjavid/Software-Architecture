@@ -1,7 +1,8 @@
 ## How to Use:
 <ol>
+ <li>Clone this project on your own system: git clone https://github.com/maryamjavid/Software-Architecture.git</li>
  <li>Run your Docker</li>
- <li>Write this code in Terminal/CMD: docker-compose up</li>
+ <li>Using Terminal or CMD (in the project's root directory), write this code: docker-compose up</li>
  <li>Open your browser and enter your localhost address</li>
 </ol>
 

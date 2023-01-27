@@ -1,3 +1,5 @@
+This system is a web-based tool that allows an organization to manage the process of recruiting and hiring developers. This system includes functionality such as programming challenges, receiving and reviewing the developer's codes, and making hiring decisions.
+
 ## How to Use:
 <ol>
  <li>Clone this project on your own system: git clone https://github.com/maryamjavid/Software-Architecture.git</li>
